@@ -5,8 +5,12 @@
 
 OrderDBProxy::OrderDBProxy(void)
 {
+<<<<<<< HEAD
+//test2
+=======
 //test1
 //test11
+>>>>>>> master
 }
 
 
