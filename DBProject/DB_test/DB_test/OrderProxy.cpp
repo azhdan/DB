@@ -5,7 +5,7 @@
 
 OrderDBProxy::OrderDBProxy(void)
 {
-//new test2
+// after conflict resolution
 }
 
 
